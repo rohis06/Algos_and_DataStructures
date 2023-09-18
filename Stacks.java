@@ -1,4 +1,4 @@
-// Stack implementation
+// Stack implementation using Arrays
 
 class Stack {
     private int arr[];
@@ -62,8 +62,7 @@ public class Stacks {
 }
 
 
-// ArrayList implemetation
-// https://www.javatpoint.com/difference-between-arraylist-and-linkedlist
+// Stack implementation using ArrayList
 
 import java.util.ArrayList;
 import java.util.List;
